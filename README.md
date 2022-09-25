@@ -2,4 +2,4 @@
 
 download weights , cfg and coco names using (https://pjreddie.com/darknet/yolo/)
 
-YOLO v3 video shows live implimentation 
+YOLOv3.mp4 shows video shows live implimentation 
